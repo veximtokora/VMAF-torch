@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="vmaf_torch",
     version="0.1",
-    url="https://rnd-gitlab-msc.huawei.com/cloud-bu-algorithm-common-project/multimedia-data-reduction/vmaf-torch",
+    url="https://gitcode.com/huaweicloud/VMAF-torch.git",
     author="Kirill Aistov",
     author_email="kirill.aistov1@huawei.com",
     description="VMAF Reimplementation on PyTorch",

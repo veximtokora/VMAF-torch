@@ -7,7 +7,7 @@ This is an (unofficial) PyTorch implementation of VMAF (Video Multi-Method Asses
 
 ## Installation
 ```
-git clone https://rnd-gitlab-msc.huawei.com/cloud-bu-algorithm-common-project/multimedia-data-reduction/vmaf-torch
+git clone https://gitcode.com/huaweicloud/VMAF-torch.git
 cd vmaf-torch
 pip install -r requirements.txt
 python setup.py develop
